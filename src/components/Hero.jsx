@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import logo from "../assets/logo.png";
 
 
 
@@ -75,7 +76,7 @@ function Hero() {
           <div className="bg-white/5 backdrop-blur-xl border border-white/10 p-10 rounded-[40px] shadow-2xl">
 
             <img
-              src="src/assets/logo.png"
+              src={logo}
               alt="Panvi Fin Mane"
               className="w-full max-w-[280px] sm:max-w-md object-contain mx-auto"
             />

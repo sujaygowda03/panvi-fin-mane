@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "../assets/founder.png";
 
 function FounderSection() {
     return (
@@ -10,7 +11,7 @@ function FounderSection() {
 
                     <div className="bg-gradient-to-br from-[#0B1F3A] to-[#07111F] rounded-[40px] h-[500px] p-6 flex items-center justify-center text-white text-3xl font-semibold">
                         <img
-                            src="src/assets/founder.png"
+                            src={logo}
                             alt="Founder"
                             className="max-h-full max-w-full object-contain shadow-lg"
                         />
