@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://panvi-fin-mane.vercel.app/sitemap.xml
