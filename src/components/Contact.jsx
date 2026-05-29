@@ -67,7 +67,7 @@ function Contact() {
                 📧support@panvifinmane.com
               </a></p>
 
-              <p>📍 10-1, 1st Main Rd, 4th Block, Sharada Colony, West of Chord Road 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079</p>
+              <p>📍 10-1, 1st Main Rd, 4th Block, Sharada Colony, West of Chord Road 3rd Stage opposite to karnataka bank, Basaveshwar Nagar, Bengaluru, Karnataka 560079</p>
             </div>
           </div>
 

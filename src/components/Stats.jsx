@@ -16,7 +16,7 @@ function Stats() {
       title: "Property Deals",
     },
     {
-      number: "14+",
+      number: "15+",
       title: "Years of Experience",
     }
   ];

@@ -4,19 +4,19 @@ import { FaStar } from "react-icons/fa";
 function Testimonials() {
   const testimonials = [
     {
-      name: "Rahul Sharma",
+      name:"Rahul Gowda",
       role: "Business Owner",
       review:
         "Panvi Fin Mane helped us secure business funding smoothly with professional guidance throughout the process.",
     },
     {
-      name: "Priya Nair",
+      name: "Priya shetty",
       role: "Investor",
       review:
         "Their investment consultation and SIP planning gave me clarity and confidence for long-term wealth growth.",
     },
     {
-      name: "Arjun Kumar",
+      name: "kiran Kumar",
       role: "Property Investor",
       review:
         "Very professional property consultation service with transparent communication and reliable support.",

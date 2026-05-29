@@ -28,8 +28,9 @@ function FounderSection() {
                         Vijay Kumar M
                     </h1>
 
+
                     <h2 className="text-4xl md:text-5xl font-bold text-[#0B1F3A] leading-tight mb-8">
-                        14+ Years of Trusted Financial Advisory Excellence
+                        15+ Years of Trusted Financial Advisory Excellence
                     </h2>
 
                     <p className="text-gray-600 text-lg leading-8 mb-8">
@@ -69,7 +70,7 @@ function FounderSection() {
 
                         <div>
                             <h3 className="text-4xl font-bold text-[#C89B3C]">
-                                ₹100Cr+
+                                ₹250Cr+
                             </h3>
 
                             <p className="text-gray-600 mt-2">
